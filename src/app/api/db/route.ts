@@ -1,9 +1,10 @@
 import { NextResponse } from "next/server";
-import { readDB, writeDB } from "@/lib/db";
+import { readDB, writeDB, getLeads } from "@/lib/db";
 
 export async function GET() {
   try {
     const db = await readDB();
+    db.leads = await getLeads();
     return NextResponse.json(db);
   } catch (error: any) {
     return NextResponse.json({ error: error.message }, { status: 500 });
