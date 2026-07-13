@@ -740,3 +740,18 @@ export async function getBlogPostBySlug(slug: string): Promise<BlogPost | undefi
     return undefined;
   }
 }
+
+// Get all leads
+export async function getLeads(): Promise<LeadItem[]> {
+  try {
+    const { db } = await connectToDatabase();
+    const leads = await db.collection("leads").find({}).sort({ date: -1 }).toArray();
+    return leads.map((l) => {
+      const { _id, ...rest } = l;
+      return rest;
+    }) as unknown as LeadItem[];
+  } catch (error) {
+    console.error("MongoDB error fetching leads:", error);
+    return [];
+  }
+}
