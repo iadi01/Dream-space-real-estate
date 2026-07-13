@@ -24,6 +24,7 @@ import {
   Upload,
   Lock,
   LogOut,
+  RefreshCw,
 } from "lucide-react";
 import { DatabaseSchema, ProjectItem, ServiceItem, HeroSlide, LeadItem } from "@/lib/db";
 
@@ -1542,9 +1543,18 @@ export default function AdminDashboard() {
         {/* TAB 7: LEADS AND ENQUIRIES */}
         {activeTab === "leads" && (
           <div className="bg-white rounded-xl border border-slate-200 shadow-sm p-6 sm:p-8 space-y-6 animate-in fade-in duration-300">
-            <div>
-              <h2 className="text-2xl font-extrabold text-[#2E3B26]">Customer Lead Tracking</h2>
-              <p className="text-slate-500 text-xs mt-1">Review contact inquiries captured from site forms and WhatsApp clicks.</p>
+            <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
+              <div>
+                <h2 className="text-2xl font-extrabold text-[#2E3B26]">Customer Lead Tracking</h2>
+                <p className="text-slate-500 text-xs mt-1">Review contact inquiries captured from site forms and WhatsApp clicks.</p>
+              </div>
+              <button
+                onClick={fetchDB}
+                className="bg-white hover:bg-slate-50 text-slate-700 border border-slate-200 px-4 py-2 rounded-lg text-xs font-bold transition-all shadow-sm flex items-center justify-center gap-2 self-start sm:self-auto"
+              >
+                <RefreshCw size={14} className={loading ? "animate-spin" : ""} />
+                Refresh Leads
+              </button>
             </div>
 
             <div className="overflow-x-auto">
