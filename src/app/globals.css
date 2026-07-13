@@ -1,0 +1,107 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: #faf9f6;
+    --foreground: #1c2416;
+  }
+
+  body {
+    font-family: var(--font-sans), sans-serif;
+    color: var(--foreground);
+    background-color: var(--background);
+    -webkit-font-smoothing: antialiased;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-glacial), var(--font-sans), sans-serif;
+  }
+}
+
+.font-glacial {
+  font-family: var(--font-glacial), sans-serif;
+}
+
+.font-sans-montserrat {
+  font-family: var(--font-sans), sans-serif;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #faf9f6;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* Slide in animations for Hero Slider */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.animate-fade-in-delay {
+  opacity: 0;
+  animation: fadeIn 0.8s cubic-bezier(0.16, 1, 0.3, 1) 0.2s forwards;
+}
+
+.animate-fade-in-delay-2 {
+  opacity: 0;
+  animation: fadeIn 0.8s cubic-bezier(0.16, 1, 0.3, 1) 0.4s forwards;
+}
+
+/* Utility Animations */
+.animate-slide-in {
+  animation: slideIn 0.3s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateY(-10px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+/* Swiper Custom Coverflow Blur & Scale Transitions */
+.swiper-coverflow-blur .swiper-slide {
+  transform: scale(0.86);
+  opacity: 0.35;
+  filter: blur(3.5px);
+  transition: transform 0.8s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.8s cubic-bezier(0.16, 1, 0.3, 1), filter 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+  pointer-events: none;
+}
+
+.swiper-coverflow-blur .swiper-slide-active {
+  transform: scale(1.01);
+  opacity: 1;
+  filter: blur(0);
+  pointer-events: auto;
+}
+
+.swiper-coverflow-blur .swiper-slide-active .group {
+  border-color: #C0A060 !important;
+  box-shadow: 0 20px 25px -5px rgb(46 59 38 / 0.1), 0 8px 10px -6px rgb(192 160 96 / 0.15) !important;
+}

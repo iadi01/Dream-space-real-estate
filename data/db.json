@@ -1,0 +1,349 @@
+{
+  "hero": [
+    {
+      "id": "slide-1",
+      "title": "Turning Dreams into Reality",
+      "subtitle": "DreamSpace Realties is a distinguished real estate firm that makes property buying and selling simple, reliable, and hassle-free. We deal in residential plots, flats, and houses, ensuring that buyers get access to genuine and verified options. Our focus is on maintaining transparency, offering prime locations, and guiding clients at every step—from site visits to final documentation—so they can make confident decisions and secure their dream property.",
+      "image": "/hero-bg.jpg",
+      "cta1Text": "Explore Projects",
+      "cta1Link": "#projects",
+      "cta2Text": "Contact us",
+      "cta2Link": "#contact"
+    },
+    {
+      "id": "slide-2",
+      "title": "Premium Plots in Strategic Locations",
+      "subtitle": "Invest in high-growth residential plotted developments in Bangalore's most sought-after corridors. With wide internal roads, underground utilities, fully loaded amenities, and immediate construction readiness, DreamSpace helps you secure your family's future.",
+      "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1600&q=80",
+      "cta1Text": "Our Projects",
+      "cta1Link": "#projects",
+      "cta2Text": "Book Site Visit",
+      "cta2Link": "#contact"
+    }
+  ],
+  "about": {
+    "title": "About DreamSpace Realties",
+    "subtitle": "Your Trusted Property Partner",
+    "description": "DreamSpace Realties is a trusted name in the real estate space, focused on making property deals smooth and transparent.\n\nWe help clients buy and sell residential plots, flats, and houses with complete confidence. Our team ensures every property is verified and offers genuine value to buyers.\n\nWe guide you through every step, from selecting the right property to final documentation. With a focus on prime locations and customer satisfaction, we aim to simplify your journey. At DreamSpace Realties, our mission is to turn your property goals into reality with trust and ease.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1000&q=80",
+    "ctaText": "Know more",
+    "ctaLink": "#contact"
+  },
+  "statistics": [
+    {
+      "id": "stat-1",
+      "value": "2+",
+      "label": "Developer Partner"
+    },
+    {
+      "id": "stat-2",
+      "value": "10+",
+      "label": "Projects Marketed"
+    },
+    {
+      "id": "stat-3",
+      "value": "100+",
+      "label": "Happy Families"
+    },
+    {
+      "id": "stat-4",
+      "value": "3+",
+      "label": "Years of Experience"
+    }
+  ],
+  "services": [
+    {
+      "id": "service-1",
+      "title": "Project Marketing",
+      "description": "Strategic Marketing for Maximum reach and impact.",
+      "iconName": "Megaphone",
+      "displayOrder": 1
+    },
+    {
+      "id": "service-2",
+      "title": "Property Advice",
+      "description": "Expert Advice to helping you to make right investment decision.",
+      "iconName": "TrendingUp",
+      "displayOrder": 2
+    },
+    {
+      "id": "service-3",
+      "title": "Property Consultation",
+      "description": "End-to-End Support from Selection to Possession.",
+      "iconName": "Users",
+      "displayOrder": 3
+    },
+    {
+      "id": "service-4",
+      "title": "Channel Partner Management",
+      "description": "Strong network of channel partner for seamless sales.",
+      "iconName": "Network",
+      "displayOrder": 4
+    },
+    {
+      "id": "service-5",
+      "title": "Customer Support",
+      "description": "Dedicated support throughout your buying journey.",
+      "iconName": "Headphones",
+      "displayOrder": 5
+    },
+    {
+      "id": "service-6",
+      "title": "Market Research",
+      "description": "In-depth market insights to guide better decisions.",
+      "iconName": "BarChart3",
+      "displayOrder": 6
+    }
+  ],
+  "projects": [
+    {
+      "slug": "mega-project",
+      "name": "MEGA PROJECT",
+      "coverImage": "https://images.unsplash.com/photo-1524813686514-a57563d77965?auto=format&fit=crop&w=1200&q=80",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1524813686514-a57563d77965?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1444653389962-8149286c578a?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "description": "Mega Project offers premium villa plots designed for fine living. Situated in Bangalore's fastest-growing residential hub, it features wide black-topped roads, underground electricity and drainage, a fully equipped clubhouse, and round-the-clock security. This layout combines peaceful green living with urban convenience, making it the perfect choice for your dream home or a high-return investment.",
+      "shortDescription": "Premium villa plots with state-of-the-art amenities on Outer Ring Road.",
+      "startingPrice": "25 Lakhs",
+      "plotSizes": "1200 - 3000 Sq.Ft.",
+      "status": "Ready to Construct",
+      "reraNumber": "PRM/KA/RERA/1251/446/PR/220524/005912",
+      "address": "Outer Ring Road Extension, Near Tech Park, Bangalore North",
+      "developer": "DreamSpace Developers",
+      "brochurePdfUrl": "/brochure-mega-project.pdf",
+      "masterPlanUrl": "https://images.unsplash.com/photo-1581094288338-2314dddb7ecc?auto=format&fit=crop&w=1200&q=80",
+      "googleMapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1944111.4589998634!2d77.34005085449767!3d12.9815987!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1670c9b44e6d%3A0xf8dfc3e8513e4cfc!2sBengaluru%2C%20Karnataka!5e0!3m2!1sen!2sin!4v1680000000000!5m2!1sen!2sin",
+      "highlights": [
+        "100% Clear Title & DC Converted",
+        "Gated community with 30ft & 40ft wide internal tar roads",
+        "Underground cabling for electricity, internet, and telephone lines",
+        "Sewage treatment plant (STP) & rainwater harvesting conduits",
+        "Overhead water tank with connections to every plot"
+      ],
+      "amenities": [
+        "24/7 Security & CCTV Monitoring",
+        "Lush Green Parks & Walking Track",
+        "Children's Play Area & Multi-sport Court",
+        "Fully Equipped Gym & Yoga Deck",
+        "Modern Clubhouse & Party Hall",
+        "Grand Entrance Arch with Security Cabin"
+      ],
+      "locationAdvantages": [
+        "10 Mins from Major IT Parks & Tech Hubs",
+        "5 Mins drive from Proposed Metro Station",
+        "Top-rated international schools within a 3km radius",
+        "Premium multi-specialty hospitals within 15 mins",
+        "Direct access to Outer Ring Road & NH44"
+      ],
+      "faqs": [
+        {
+          "question": "Is the project RERA approved?",
+          "answer": "Yes, the project is registered with Karnataka RERA. The registration number is PRM/KA/RERA/1251/446/PR/220524/005912."
+        },
+        {
+          "question": "Can I get a bank loan for purchasing a plot?",
+          "answer": "Absolutely! The project is approved by major banks like SBI, HDFC, ICICI, and LIC HFL. Loans up to 70-80% are easily available depending on eligibility."
+        },
+        {
+          "question": "What is the status of utility connections?",
+          "answer": "All utilities (electricity cables, water lines, sewage connections, fiber internet) are laid underground directly to the boundary of each plot."
+        }
+      ],
+      "seoTitle": "Premium Villa Plots for Sale on Outer Ring Road Bangalore | Mega Project",
+      "seoDescription": "Buy premium villa plots in Mega Project on Outer Ring Road Bangalore. Ready to construct gated community with 20+ amenities and bank approval.",
+      "publishStatus": "published"
+    },
+    {
+      "slug": "panchwati-nagar",
+      "name": "PANCHWATI NAGAR",
+      "coverImage": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1200&q=80",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1524813686514-a57563d77965?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1444653389962-8149286c578a?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "description": "Panchwati Nagar is a nature-centric plotted township near Devanahalli. Nestled in a peaceful green valley, it is designed for those who appreciate organic living and clean air. The layout features beautiful organic gardens, fruit-bearing tree pathways, jogging trails, and a natural lake view park, while providing high-quality infrastructure like wide concrete roads, electricity, and continuous water supply.",
+      "shortDescription": "Nature-themed luxury villa plots located near Devanahalli Airport.",
+      "startingPrice": "18 Lakhs",
+      "plotSizes": "1200 - 2400 Sq.Ft.",
+      "status": "Ready to Construct",
+      "reraNumber": "PRM/KA/RERA/1250/301/PR/210823/004218",
+      "address": "Panchwati Nagar, Devanahalli Airport Road, Bangalore Rural",
+      "developer": "DreamSpace Realties",
+      "brochurePdfUrl": "/brochure-panchwati-nagar.pdf",
+      "masterPlanUrl": "https://images.unsplash.com/photo-1581094288338-2314dddb7ecc?auto=format&fit=crop&w=1200&q=80",
+      "googleMapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1944111.4589998634!2d77.34005085449767!3d12.9815987!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1670c9b44e6d%3A0xf8dfc3e8513e4cfc!2sBengaluru%2C%20Karnataka!5e0!3m2!1sen!2sin!4v1680000000000!5m2!1sen!2sin",
+      "highlights": [
+        "Surrounded by reserve forests with 100% pollution-free air",
+        "Over 500 fruit-bearing trees planted along avenues",
+        "High-quality concrete roads with rainwater gutters",
+        "24-hour security with boundary walls all around",
+        "Independently metered borewell water supply for all plots"
+      ],
+      "amenities": [
+        "Organic Fruit Gardens & Herb Parks",
+        "Stargazing Deck & Meditation Gazebo",
+        "Lakefront Promenade & Seating",
+        "Outdoor Gym & Jogging Loop",
+        "Amphitheater for community events",
+        "Pet Park & Kids Zone"
+      ],
+      "locationAdvantages": [
+        "15 Mins drive from Bangalore International Airport",
+        "Close proximity to Aerospace SEZ & Hardware Park",
+        "Easy connection to NH44 (Hyderabad Highway)",
+        "Reputed schools and colleges nearby",
+        "Upcoming high-speed rail transit route"
+      ],
+      "faqs": [
+        {
+          "question": "When is possession available?",
+          "answer": "The layout is fully ready and plots are registered immediately upon purchase. You can start constructing your villa right away."
+        },
+        {
+          "question": "What is the maintenance structure?",
+          "answer": "Maintenance is managed by DreamSpace Care for the first 2 years, after which it will be handed over to the plot owners' welfare association."
+        }
+      ],
+      "seoTitle": "Plots in Devanahalli | Panchwati Nagar Gated Community Bangalore Rural",
+      "seoDescription": "Explore nature-themed residential plots for sale at Panchwati Nagar, Devanahalli. Buy villa plots near Bangalore Airport with world-class facilities.",
+      "publishStatus": "published"
+    },
+    {
+      "slug": "hari-om-nagar",
+      "name": "HARI OM NAGAR",
+      "coverImage": "https://images.unsplash.com/photo-1444653389962-8149286c578a?auto=format&fit=crop&w=1200&q=80",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1444653389962-8149286c578a?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1524813686514-a57563d77965?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "description": "Hari Om Nagar offers premium boutique plots off Sarjapur Road. Perfect for individuals seeking immediate construction, this gated layout features an intimate community of limited plots with an active luxury clubhouse, underground cabling, wide asphalted paths, and beautiful theme gardens.",
+      "shortDescription": "Premium villa plots near schools and shopping centers on Sarjapur Road.",
+      "startingPrice": "30 Lakhs",
+      "plotSizes": "1500 - 4000 Sq.Ft.",
+      "status": "Almost Sold Out",
+      "reraNumber": "PRM/KA/RERA/1251/308/PR/230124/005698",
+      "address": "Off Sarjapur Main Road, Near Prestige Smart City, Bangalore East",
+      "developer": "Vardaan Builders & DreamSpace Joint Venture",
+      "brochurePdfUrl": "/brochure-hari-om-nagar.pdf",
+      "masterPlanUrl": "https://images.unsplash.com/photo-1581094288338-2314dddb7ecc?auto=format&fit=crop&w=1200&q=80",
+      "googleMapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1944111.4589998634!2d77.34005085449767!3d12.9815987!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1670c9b44e6d%3A0xf8dfc3e8513e4cfc!2sBengaluru%2C%20Karnataka!5e0!3m2!1sen!2sin!4v1680000000000!5m2!1sen!2sin",
+      "highlights": [
+        "Highly sought-after locality with rapid price appreciation",
+        "Fully underground high-speed fiber internet and electrical infrastructure",
+        "Avenue lighting and beautiful decorative gateway arch",
+        "Close connection to Wipro Corporate Office",
+        "Individual water taps and electricity meters provided to all plots"
+      ],
+      "amenities": [
+        "Clubhouse with Infinity Pool",
+        "Indoor Badminton & Squash Courts",
+        "Mini Theater & Billiards Room",
+        "Landscaped Flower Parks & Jogging Track",
+        "Elders' Leisure Plaza",
+        "24/7 Gated Security with Intercom"
+      ],
+      "locationAdvantages": [
+        "8 Mins from Wipro Corporate Office, Sarjapur Road",
+        "10 Mins from Decathlon Sarjapur & Shopping Hubs",
+        "Top tier schools (Greenwood High, TISB) within 10-15 mins",
+        "15 Mins to Carmelaram Railway Station",
+        "Excellent connectivity to Outer Ring Road, Bellandur, and HSR Layout"
+      ],
+      "faqs": [
+        {
+          "question": "Is there any commercial zone inside the layout?",
+          "answer": "No, Hari Om Nagar is purely a residential gated community. A small convenience store facility is provided in the clubhouse building for daily essentials."
+        },
+        {
+          "question": "Are there any pending approvals?",
+          "answer": "No, the project has received 100% approval from BMRDA/local authorities and RERA. All titles are verified."
+        }
+      ],
+      "seoTitle": "Plots for Sale in Sarjapur Road Bangalore | Hari Om Nagar Gated Community",
+      "seoDescription": "Premium villa plots for sale off Sarjapur Road Bangalore in Hari Om Nagar. Gate community with swimming pool, gym, wide roads, and ready for registry.",
+      "publishStatus": "published"
+    }
+  ],
+  "values": [
+    {
+      "id": "val-1",
+      "title": "Trust & Transparency",
+      "description": "We believe in honest communication and ethical practices"
+    },
+    {
+      "id": "val-2",
+      "title": "Strong developer tie-ups",
+      "description": "Our partnership enables us to brings you the best projects"
+    },
+    {
+      "id": "val-3",
+      "title": "Customer First",
+      "description": "Your satisfaction and dreams are our top priority"
+    },
+    {
+      "id": "val-4",
+      "title": "Timely Delivery",
+      "description": "We ensure a smooth and timely experience from start to finish"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "t-1",
+      "name": "Rohan Sharma",
+      "role": "IT Consultant",
+      "feedback": "Bought a plot in Mega Project through DreamSpace. The documentation process was extremely smooth, and their representative was there with me at the registrar's office. Highly recommended!",
+      "rating": 5,
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=120&q=80"
+    },
+    {
+      "id": "t-2",
+      "name": "Anjali Deshmukh",
+      "role": "Business Owner",
+      "feedback": "DreamSpace Realties was helpful in explaining the RERA details and checking the land titles. I bought a plot in Panchwati Nagar and am looking forward to building my house next year.",
+      "rating": 5,
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=120&q=80"
+    }
+  ],
+  "contact": {
+    "phone": "+91 98765 43210",
+    "email": "info@dreamspacerealties.com",
+    "whatsapp": "919876543210",
+    "address": "123 DreamSpace Tower, Outer Ring Road, Bangalore, Karnataka - 560103",
+    "googleMapsLink": "https://maps.app.goo.gl/95a3b934b9d",
+    "workingHours": "Mon - Sat: 9:00 AM - 7:00 PM, Sunday: Closed",
+    "socialFacebook": "https://facebook.com/dreamspace",
+    "socialTwitter": "https://twitter.com/dreamspace",
+    "socialInstagram": "https://instagram.com/dreamspace",
+    "socialLinkedin": "https://linkedin.com/company/dreamspace"
+  },
+  "leads": [
+    {
+      "id": "lead-1",
+      "name": "Vikram Malhotra",
+      "phone": "9876543210",
+      "email": "vikram@gmail.com",
+      "project": "MEGA PROJECT",
+      "message": "Hi, I am interested in buying a 30x40 villa plot in your Mega Project. Please share the pricing sheet and map layout.",
+      "source": "Project Contact Form",
+      "status": "New",
+      "date": "2026-07-13T12:00:00.000Z"
+    },
+    {
+      "id": "lead-2",
+      "name": "Sneha Patel",
+      "phone": "9812345678",
+      "email": "sneha@yahoo.com",
+      "project": "PANCHWATI NAGAR",
+      "message": "Please call me regarding site visit booking for Panchwati Nagar this Saturday.",
+      "source": "Book Site Visit Modal",
+      "status": "Contacted",
+      "date": "2026-07-12T15:30:00.000Z"
+    }
+  ]
+}
