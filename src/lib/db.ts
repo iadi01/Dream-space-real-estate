@@ -240,9 +240,9 @@ const DEFAULT_DATA = {
     }
   ],
   contact: {
-    phone: "+91 98765 43210",
+    phone: "+91 99055 58959",
     email: "info@dreamspacerealties.com",
-    whatsapp: "919876543210",
+    whatsapp: "919905558959",
     address: "123 DreamSpace Tower, Outer Ring Road, Bangalore, Karnataka - 560103",
     googleMapsLink: "https://maps.google.com/maps?q=Pardih%20Dimna,%20Jamshedpur&z=14&output=embed",
     workingHours: "Mon - Sat: 9:00 AM - 7:00 PM, Sunday: Closed",
